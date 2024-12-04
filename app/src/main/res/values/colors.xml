@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Colores para las prioridades -->
+    <color name="priority_high">#FF0000</color> <!-- Rojo para "High" -->
+    <color name="priority_medium">#FFA500</color> <!-- Naranja para "Medium" -->
+    <color name="priority_low">#008000</color> <!-- Verde para "Low" -->
+
+    <color name="status_pending">#FFC107</color> <!-- Amarillo -->
+    <color name="status_in_progress">#4CAF50</color> <!-- Verde -->
+    <color name="status_completed">#FF8A80</color> <!-- Rojo claro -->
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_700">#047857</color>
+    <color name="green_cost">#4CAF50</color>
+
+</resources>
